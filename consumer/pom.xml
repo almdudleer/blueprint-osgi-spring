@@ -44,10 +44,6 @@
 					<instructions>
 						<Bundle-Name>${name} ${version}</Bundle-Name>
 						<Bundle-SymbolicName>${groupId}.${artifactId}</Bundle-SymbolicName>
-						<Export-Package></Export-Package>
-						<Import-Package>
-							*
-						</Import-Package>
 					</instructions>
 				</configuration>
 			</plugin>
