@@ -18,6 +18,7 @@
 		<module>producer-api</module>
 		<module>date-producer</module>
 		<module>int-producer</module>
+		<module>jdbc-producer</module>
 	</modules>
 
 </project>
